@@ -36,8 +36,8 @@ python main.py
 ## Скриншоты
 **Набросок дизайна**
 
-![design](screenshots/design.png)
+![design](design.png)
 
 **Работающая программа**
 
-![app](screenshots/app.png)
+![app](image%20(53).png)
